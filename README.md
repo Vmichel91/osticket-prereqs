@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/kZYYuqn.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p> Step 1
+<p> 
   To set up IIS(Internet Information Services), first open the control panel. This will enable a web server on your computer, allowing you to run osTicket from the web. To access the control panel, simply search for it using the search bar located at the bottom of your desktop.
 </p>
 <br />
