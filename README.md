@@ -34,7 +34,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p> Step 1
   To set up IIS, first open the control panel. This will enable a web server on your computer, allowing you to run osTicket from the web. To access the control panel, simply search for it using the search bar located at the bottom of your desktop.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
