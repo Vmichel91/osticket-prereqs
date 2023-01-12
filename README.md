@@ -17,14 +17,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-
 -Install or enable Internet Information Services
+
 -Add MySQL 5.5
+
 -Add all the simple versions of x86 PHP up to version 7.3
+
 -Install osTicket version 1.15.8
+
 -Restart IIS by opening it and stopping and starting the server
+
 -Enable the required extensions in IIS
+
 -Refresh the osTicket site in your browser to observe the changes
+
 -Clean up files for optimal performance.
 
 
