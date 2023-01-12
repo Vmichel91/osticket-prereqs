@@ -18,14 +18,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Add Internet Information Services
-- Add MySQL 5.5
-- Add all simple versions of x86 PHP up to v7.3
-- Install osTicket v1.15.8
-- Reload IIS (open IIS, Stop and Start the server) 
-- Enable extensions in IIS
-- Refresh the osTicket site in your browser and observe the changes
-- Clean up files for optimal use
+-Install or enable Internet Information Services
+-Add MySQL 5.5
+-Add all the simple versions of x86 PHP up to version 7.3
+-Install osTicket version 1.15.8
+-Restart IIS by opening it and stopping and starting the server
+-Enable the required extensions in IIS
+-Refresh the osTicket site in your browser to observe the changes
+-Clean up files for optimal performance.
+
 
 <h2>Installation Steps</h2>
 
